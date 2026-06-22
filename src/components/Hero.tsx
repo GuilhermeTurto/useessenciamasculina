@@ -10,7 +10,7 @@ export function Hero() {
       <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,.018)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,.018)_1px,transparent_1px)] bg-[size:72px_72px] opacity-30" />
       <div className="absolute right-0 top-0 h-full w-full lg:w-[58%]">
         <img
-          src="/hero-essencia.png"
+          src={`${import.meta.env.BASE_URL}hero-essencia.png`}
           alt="Homem vestindo terno premium azul-marinho"
           className="h-full w-full object-cover object-[66%_center]"
         />
@@ -52,20 +52,6 @@ export function Hero() {
               Falar no WhatsApp
               <ArrowUpRight size={14} className="transition group-hover:translate-x-1" />
             </a>
-          </div>
-          <div className="mt-14 flex gap-9 border-t border-white/15 pt-6 sm:gap-14">
-            <div>
-              <strong className="font-display text-3xl font-medium text-ivory">+10</strong>
-              <span className="mt-1 block text-[9px] uppercase tracking-[0.22em] text-white/45">
-                Anos de tradição
-              </span>
-            </div>
-            <div>
-              <strong className="font-display text-3xl font-medium text-ivory">4.9</strong>
-              <span className="mt-1 block text-[9px] uppercase tracking-[0.22em] text-white/45">
-                Avaliação média
-              </span>
-            </div>
           </div>
         </div>
       </div>

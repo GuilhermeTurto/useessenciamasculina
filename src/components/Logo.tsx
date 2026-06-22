@@ -6,7 +6,7 @@ export function Logo() {
       aria-label="Essência Masculina"
     >
       <img
-        src="/monograma-essencia-original.png"
+        src={`${import.meta.env.BASE_URL}monograma-essencia-original.png`}
         alt="Essência Masculina"
         className="h-full w-full object-contain"
       />
