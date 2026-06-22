@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 190" role="img" aria-labelledby="title desc">
+  <title id="title">Essência Masculina</title>
+  <desc id="desc">Monograma EM com detalhe de alfaiataria.</desc>
+
+  <text x="3" y="148" fill="#D4AF37" font-family="Cormorant Garamond, Georgia, serif" font-size="170" font-weight="500" letter-spacing="-16">E</text>
+  <text x="87" y="148" fill="#D4AF37" font-family="Cormorant Garamond, Georgia, serif" font-size="170" font-weight="500" letter-spacing="-20">M</text>
+
+  <path d="M105 14c48 10 73 44 87 94 11 39 29 64 61 77-38-5-63-29-76-70-16-51-34-82-72-101z" fill="#D4AF37"/>
+
+  <path d="M174 92l22 16 22-16-7 73-15 18-15-18z" fill="#D4AF37"/>
+  <path d="M181 99l15 12 15-12-7 22h-16z" fill="#061B3A"/>
+  <path d="M181 113l-17 13 19 15 6-24zM211 113l17 13-19 15-6-24z" fill="#D4AF37"/>
+  <circle cx="196" cy="132" r="3.2" fill="#061B3A"/>
+  <circle cx="196" cy="145" r="3.2" fill="#061B3A"/>
+  <circle cx="196" cy="158" r="3.2" fill="#061B3A"/>
+</svg>
